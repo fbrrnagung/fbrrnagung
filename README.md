@@ -1,7 +1,7 @@
 # Hellow👋~Agung Febrian
 
 <p align="center">
-  <img src="https://imgur.com/nQDvnzH.png" alt="Header"/>
+  <img src="https://i.imgur.com/MswIgn2.jpeg" alt="Header"/>
 </p>
 
 ## 🙋‍♂️ About Me
